@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/To-do-React-Redux/static/css/main.0d19045e.chunk.css",
+    "main.js": "/To-do-React-Redux/static/js/main.dc340aee.chunk.js",
+    "main.js.map": "/To-do-React-Redux/static/js/main.dc340aee.chunk.js.map",
+    "runtime-main.js": "/To-do-React-Redux/static/js/runtime-main.b7779a04.js",
+    "runtime-main.js.map": "/To-do-React-Redux/static/js/runtime-main.b7779a04.js.map",
+    "static/js/2.d6b43418.chunk.js": "/To-do-React-Redux/static/js/2.d6b43418.chunk.js",
+    "static/js/2.d6b43418.chunk.js.map": "/To-do-React-Redux/static/js/2.d6b43418.chunk.js.map",
+    "index.html": "/To-do-React-Redux/index.html",
+    "precache-manifest.141e1de9c1ddcdcd05b8b404572f2a19.js": "/To-do-React-Redux/precache-manifest.141e1de9c1ddcdcd05b8b404572f2a19.js",
+    "service-worker.js": "/To-do-React-Redux/service-worker.js",
+    "static/css/main.0d19045e.chunk.css.map": "/To-do-React-Redux/static/css/main.0d19045e.chunk.css.map",
+    "static/js/2.d6b43418.chunk.js.LICENSE.txt": "/To-do-React-Redux/static/js/2.d6b43418.chunk.js.LICENSE.txt",
+    "static/media/checkedIcon.svg": "/To-do-React-Redux/static/media/checkedIcon.3f307db3.svg",
+    "static/media/index.css": "/To-do-React-Redux/static/media/desk.b9e65c66.jpg",
+    "static/media/removeIcon.svg": "/To-do-React-Redux/static/media/removeIcon.87da3865.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7779a04.js",
+    "static/js/2.d6b43418.chunk.js",
+    "static/css/main.0d19045e.chunk.css",
+    "static/js/main.dc340aee.chunk.js"
+  ]
+}
